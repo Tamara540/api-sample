@@ -1,2 +1,3 @@
 # api-sample
-My first project in Python
+pip3 install -r requirements.txt
+uvicorn app.main:app
